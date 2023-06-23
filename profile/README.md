@@ -1,12 +1,9 @@
-## Hi there 👋
+# Welcome to Social Vector 👋🔗
+Social Vector is a versatile and user-friendly SDK software tool designed to facilitate the implementation of social authentication on any platform. With Social Vector, users can easily integrate popular social media authentication providers such as Facebook, Google, Spaces, Twitter, LinkedIn, and more into their applications or websites, offering a seamless login experience for their users.
 
-<!--
+## Get involved!
+You can join the fun by following our contributing guide. Everyone is welcome!
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Repositories
+The Social Vector project has a number of repositories, see them here:
+https://github.com/orgs/socialvector/repositories
